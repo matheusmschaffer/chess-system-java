@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/boardgame/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/boardgame/BoardException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/boardgame/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/boardgame/Position.java" afterDir="false" />
-    </list>
+    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="From 7 commit of chess-system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -79,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692034130680</updated>
     </task>
+    <task id="LOCAL-00001" summary="From 7 commit of chess-system">
+      <created>1692034925142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692034925142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="From 7 commit of chess-system" />
+    <option name="LAST_COMMIT_MESSAGE" value="From 7 commit of chess-system" />
   </component>
 </project>
