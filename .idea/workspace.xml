@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="From 7 commit of chess-system">
+    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Possible moves of a piece">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/boardgame/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boardgame/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boardgame/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boardgame/Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessPiece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/pieces/King.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692035177117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Possible moves of a piece">
+      <created>1692064442045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692064442045</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="From 7 commit of chess-system" />
-    <option name="LAST_COMMIT_MESSAGE" value="From 7 commit of chess-system" />
+    <MESSAGE value="Possible moves of a piece" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible moves of a piece" />
   </component>
 </project>
