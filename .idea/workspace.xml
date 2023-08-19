@@ -9,11 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Switching player each turn">
+    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Handling captured pieces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692144855128</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Handling captured pieces">
+      <created>1692147740588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692147740588</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +159,7 @@
     <MESSAGE value="Printing possible moves" />
     <MESSAGE value="Implementing possible moves of King" />
     <MESSAGE value="Switching player each turn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switching player each turn" />
+    <MESSAGE value="Handling captured pieces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handling captured pieces" />
   </component>
 </project>
