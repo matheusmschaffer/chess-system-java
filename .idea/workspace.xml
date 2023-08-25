@@ -9,8 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Bishop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chess/pieces/Knight.java" afterDir="false" />
+    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Knight">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chess/pieces/Queen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" afterDir="false" />
     </list>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692925853432</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Knight">
+      <created>1692927948732</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692927948732</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +205,7 @@
     <MESSAGE value="Piece move count" />
     <MESSAGE value="Pawn" />
     <MESSAGE value="Bishop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bishop" />
+    <MESSAGE value="Knight" />
+    <option name="LAST_COMMIT_MESSAGE" value="Knight" />
   </component>
 </project>
