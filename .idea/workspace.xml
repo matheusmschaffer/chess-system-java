@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Special move - En passant">
+    <list default="true" id="2c3b6224-1af7-4e65-9a0f-e186331e9348" name="Changes" comment="Special move - Promotion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/ChessMatch.java" afterDir="false" />
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693275795657</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Special move - Promotion">
+      <created>1693535272905</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693535272905</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +241,7 @@
     <MESSAGE value="Queen" />
     <MESSAGE value="Special move - Castling" />
     <MESSAGE value="Special move - En passant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Special move - En passant" />
+    <MESSAGE value="Special move - Promotion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Special move - Promotion" />
   </component>
 </project>
